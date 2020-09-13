@@ -1,0 +1,9 @@
+,Missing Values (MV),% of MV (MV/n),Inconsistency Values (IV),% of IV (IV/n)
+pclass,0,0.0,0,0.0
+sex,0,0.0,4,0.004366812227074236
+age,188,0.2052401746724891,0,0.0
+sibsp,0,0.0,0,0.0
+parch,0,0.0,0,0.0
+fare,9,0.009825327510917031,0,0.0
+embarked,0,0.0,3,0.0032751091703056767
+survived,0,0.0,0,0.0
